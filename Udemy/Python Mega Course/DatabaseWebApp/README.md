@@ -1,4 +1,4 @@
-# Online-Courses
+# DatabaseWebApp
 
 The purspose of the app is a simple website developeed using Flask and SQLAlchemy which expects as input an e-mail address and a height for a specific user, it will store this information in a database and it will then send to the user the information received and the height average of all the people who took part in the experiment.
 
