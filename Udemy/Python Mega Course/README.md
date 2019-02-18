@@ -1,2 +1,2 @@
 # Online-Courses
-Courses attended online on different websites
+Applications built while following the course "Python Mega Course" by Ardit Sulce on [Udemy](https://www.udemy.com/).
