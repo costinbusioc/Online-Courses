@@ -1,5 +1,4 @@
 # GeocoderWeb
-# Online-Courses
 
 The purspose of the app is a simple website developeed using Flask which lets the user upload a csv file containing different information about locations, then it will be able to actual view the table on the website and later on download the file.
 
